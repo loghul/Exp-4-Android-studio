@@ -56,10 +56,11 @@ Registeration Number : 212220230029 \
 </androidx.constraintlayout.widget.ConstraintLayout>
 
 
-
+```
 
 ## MainActivity.java
 
+``` java
 
 package com.example.intent;
 
