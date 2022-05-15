@@ -1,4 +1,10 @@
-# Ex.No:4 Design an android application Send SMS using Intent.
+### EX NO: 04
+
+### DATE: 
+
+
+# <p align = "center"> Design an android application Send SMS using Intent </p>
+
 ## AIM:
 To create and design an android application Send SMS using Intent using Android Studio.
 
@@ -30,7 +36,7 @@ Registeration Number : 212220230029 \
 
 
 
-## activity_main.xml
+## <br/><br/><br/> activity_main.xml
 
 ``` java
 
